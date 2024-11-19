@@ -5,7 +5,7 @@ Eu atualmente estou graduando em **Engenharia de Software Bacharelado na UNOPAR*
 
 Meus interesses são: **Ciência de Dados, Scripts, Automação e Visão computacional.** Assim como  
 | **Python** | **R** | **SQL** | **Bash** | **Git** | **(Numpy)** | **(Pandas)** | **(MatplotLib)** | **(sklearn)** | **(OpenCV)** |  
-**Linkedin**: linkedin.com/in/benay-tomas/
+[LinkedIn](https://linkedin.com/in/benay-tomas/)
 
 Eu comecei a me interessar por essa área por volta de 2023 mas só comecei a realmente  
 estudar sobre no começo de 2024, e por volta da metade do mesmo decidi que queria me especializar na área de Dados.

@@ -1,9 +1,9 @@
 ## Olá!
 
 ### ***Meu nome é Benay Tomas***
-Eu atualmente estou graduando em **Engenharia de Software Bacharelado na UNOPAR** e cursando programas específicos relacionados a **Data Science na Coursera.**  
+Atualmente sou graduando em **Engenharia de Software Bacharelado na UNOPAR** e estou cursando programas específicos relacionados a **Ciência de Dados na Coursera.**  
 
-Meus interesses são: **Ciência de Dados, Scripts, Automação e Visão computacional.** Assim como  
+Meus interesses são: **Data Science/Analytics, Scripts, Automação e Visão computacional.** Assim como  
 | **Python** | **R** | **SQL** | **Bash** | **Git** | **(Numpy)** | **(Pandas)** | **(MatplotLib)** | **(sklearn)** | **(OpenCV)** |  
 [LinkedIn](https://linkedin.com/in/benay-tomas/)
 

@@ -8,6 +8,6 @@ Alguns interesses:
 **Análise de dados, inteligência artificial, scripting, visão computacional.** 
 
 Tech Stack:  
-**Python/Notebooks** | **PosgreSQL/MySQL** | **Bash** | **Git** | **(Numpy)** | **(Pandas)** | **(MatplotLib)**  
+**Python/Notebooks** | **PostgreSQL/MySQL** | **Bash** | **Git** | **(Numpy)** | **(Pandas)** | **(MatplotLib)**  
 
 [LinkedIn](https://linkedin.com/in/benay-tomas/)

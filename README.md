@@ -1,14 +1,13 @@
 ## Olá!
 
 ### ***Meu nome é Benay Tomas***
-Atualmente sou graduando em **Engenharia de Software Bacharelado na UNOPAR** e estou cursando programas específicos relacionados a **Ciência de Dados na Coursera.**  
+Atualmente graduando em **Tec. Análise e Desenvolvimentos de Sistemas na UniCesumar** e cursando *Ciência de Dados pela Coursera.**  
+Meu interesse na área de programação começou em 2019. Mas até 2023, considerava mais um hobby do que uma possível profissão de fato. Desde então comecei a estudar pra valer e nestes 2 anos explorando diversas opções, o quê mais chamou minha atenção foi Análise de Dados.
 
-Meus interesses são: 
-**Data Science, Scripts, Automação e Visão computacional.** 
+Alguns interesses: 
+**Ciência de Dados, scripting, visão computacional.** 
 
 Tech Stack:  
-**Python** | **R** | **SQL** | **Bash** | **Git** | **(Numpy)** | **(Pandas)** | **(MatplotLib)** | **(OpenCV)**    
+**Python** | **Notebooks** | **SQL** | **Bash** | **Git** | **(Numpy)** | **(Pandas)** | **(MatplotLib)**  
 
 [LinkedIn](https://linkedin.com/in/benay-tomas/)
-
-Eu tinha interesse na área de programação desde 2019, só que infelizmente nunca tinha levado muito à frente. Foi só por volta de 2023 que esse interesse se tornou algo mais sério mas ainda não era algo que tinha tomado uma decisão concreta. Em 2024 isso mudou e comecei a estudar a área pra valer e por volta da metade do ano decidi que queria me especializar na área de Dados.

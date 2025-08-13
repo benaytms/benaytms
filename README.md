@@ -5,7 +5,7 @@ Atualmente estou graduando em **Tec. Análise e Desenvolvimentos de Sistemas na 
 Meu interesse na área de programação começou em 2019. Mas até 2023, considerava mais um hobby do que uma possível profissão de fato. Desde então comecei a estudar pra valer e nestes 2 anos explorando diversas opções, o quê mais chamou minha atenção foi Data Analytics.
 
 Alguns interesses: 
-**Análise de dados, inteligência artificial, scripting, visão computacional.** 
+**Análise de dados, scripting, visão computacional.** 
 
 Tech Stack:  
 **Python/Notebooks** | **PostgreSQL/MySQL** | **Bash** | **Git** | **Linux** | **(Numpy)** | **(Pandas)** | **(MatplotLib)**  

@@ -5,7 +5,7 @@ Atualmente estou me graduando em **Ciência de dados e Análise de comportamento
 O curso é focado em Ciência de dados aplicada.  
 
 Alguns interesses: 
-**Análise de dados, BI, Data Scraping, Machine Learning, Scripting.** 
+**Análise de dados, NLP, Data Scraping, Sistemas de recomedação, Scripting.** 
 
 Tech Stack:  
 **Python/R** | **PostgreSQL/Sqlite** | **Bash** | **Git** | **Linux** | **PowerBI** |  

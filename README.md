@@ -5,9 +5,9 @@ Atualmente estou me graduando em **Ciência de dados e Análise de comportamento
 O curso é focado em Ciência de dados aplicada.  
 
 Alguns interesses: 
-**Data Pipeline, NLP, Data Scraping, Sistemas de recomedação, Scripting.** 
+**Data Pipeline, Data Scraping, Scripting.** 
 
 Tech Stack:  
-**Python/R** | **PostgreSQL/Sqlite** | **Bash** | **Git** | **Linux** | **PowerBI** |  
+**Python/R** | **PostgreSQL** | **Bash** | **Git** | **Linux** | **PowerBI** |  
 
 [LinkedIn](https://linkedin.com/in/benay-tomas/)

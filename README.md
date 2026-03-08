@@ -7,5 +7,4 @@ O curso é focado em Ciência de dados aplicada.
 Alguns interesses: 
 **Data Pipeline, Data Scraping, Scripting.** 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=benaytms&theme=graywhite)
-
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benaytms&theme=nord_bright) 

@@ -8,6 +8,6 @@ Alguns interesses:
 **Data Pipeline, Data Scraping, Scripting.** 
 
 Tech Stack:  
-![top langs](https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=benaytms&layout=compact&hide_border=true)
+![top_used_langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benaytms&theme=default) 
 
 [LinkedIn](https://linkedin.com/in/benay-tomas/)

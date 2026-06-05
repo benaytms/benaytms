@@ -5,4 +5,4 @@ Atualmente estou me graduando em **Ciência de dados e Análise de comportamento
 O curso é focado em Ciência de dados aplicada.  
 
 Alguns interesses: 
-**Data Pipeline, Web Scraping, Scripting.** 
+**Data Engineering, Web Scraping, Scripting.** 

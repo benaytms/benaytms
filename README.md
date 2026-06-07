@@ -5,4 +5,4 @@ Atualmente estou me graduando em **Ciência de dados e Análise de comportamento
 Meu interesse principal é em engenharia de dados, especificamente gerenciamento de data warehouses.
 
 Alguns outros interesses: 
-**Web Scraping, Scripting, Aplicações Open-Source, Self-Hosting Systems.** 
+**Web Scraping, Scripting, FOSS, Self-Hosting Systems.** 

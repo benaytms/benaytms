@@ -2,7 +2,7 @@
 
 ## Meu nome é **Benay Tomas**
 Atualmente estou me graduando em **Ciência de dados e Análise de comportamento** na **UniCesumar.**  
-O curso é focado em Ciência de dados aplicada.  
+Meu interesse principal é em engenharia de dados, especificamente gerenciamento de data warehouses.
 
-Alguns interesses: 
-**Data Engineering, Web Scraping, Scripting.** 
+Alguns outros interesses: 
+**Web Scraping, Scripting, Aplicações Open-Source, Self-Hosting Systems.** 
